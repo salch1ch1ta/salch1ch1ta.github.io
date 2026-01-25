@@ -1,0 +1,26 @@
+{
+  "1": {
+    "1": {
+      "titulo": "Pilot",
+      "curiosidades": [
+        "En la clase del Sr. Goldenfold hay un personaje con camiseta de Bart Simpson.",
+        "Rick y Morty están basados en la idea original de Justin Roiland."
+      ]
+    },
+    "2": {
+      "titulo": "Lawnmower Dog",
+      "curiosidades": [
+        "Scary Terry es una referencia a Freddy Krueger.",
+        "Las reglas de morir en los sueños se invierten respecto a Inception."
+      ]
+    }
+  },
+  "2": {
+    "1": {
+      "titulo": "A Rickle in Time",
+      "curiosidades": [
+        "El título es un juego con 'A Wrinkle in Time'."
+      ]
+    }
+  }
+}
