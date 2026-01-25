@@ -1,26 +1,446 @@
 {
-  "1": {
     "1": {
-      "titulo": "Pilot",
-      "curiosidades": [
-        "En la clase del Sr. Goldenfold hay un personaje con camiseta de Bart Simpson.",
-        "Rick y Morty están basados en la idea original de Justin Roiland."
-      ]
+        "1": {
+            "titulo": "Pilot",
+            "curiosidades": [
+                "En la clase del Sr. Goldenfold hay un personaje con camiseta de Bart Simpson.",
+                "Rick y Morty están basados en la idea original de Justin Roiland 'The Real Animated Adventures of Doc and Mharti'."
+            ]
+        },
+        "2": {
+            "titulo": "Lawnmower Dog",
+            "curiosidades": [
+                "Scary Terry es una referencia a Freddy Krueger.",
+                "Las reglas de morir en los sueños se invierten respecto a Inception."
+            ]
+        },
+        "3": {
+            "titulo": "Anatomy Park",
+            "curiosidades": [
+                "La atracción 'Piratas del Páncreas' es una referencia a 'Piratas del Caribe'.",
+                "Alexander vestido como perro es una referencia a Goofy."
+            ]
+        },
+        "4": {
+            "titulo": "M. Night Shaym-Aliens!",
+            "curiosidades": [
+                "El nombre del episodio se basa en el director M. Night Shyamalan.",
+                "La canción que se reproduce es una versión instrumental de 'Baker Street'."
+            ]
+        },
+        "5": {
+            "titulo": "Meeseeks and Destroy",
+            "curiosidades": [
+                "El título es una referencia a 'Seek and Destroy' de Metallica.",
+                "El dispositivo usado recuerda a las trampas de Ghostbusters."
+            ]
+        },
+        "6": {
+            "titulo": "Rick Potion #9",
+            "curiosidades": [
+                "El título es una parodia de 'Love Potion No. 9'.",
+                "El mundo Cronenberg hace referencia al cineasta David Cronenberg."
+            ]
+        },
+        "7": {
+            "titulo": "Raising Gazorpazorp",
+            "curiosidades": [
+                "Referencia a la película 'Zardoz' de 1974.",
+                "Morty Jr. confinado en la casa recuerda a 'Bad Boy Bubby'."
+            ]
+        },
+        "8": {
+            "titulo": "Rixty Minutes",
+            "curiosidades": [
+                "El título es una referencia al programa '60 Minutes'.",
+                "Jerry reemplaza a personajes de Tom Hanks en una realidad alternativa."
+            ]
+        },
+        "9": {
+            "titulo": "Something Ricked This Way Comes",
+            "curiosidades": [
+                "El nombre de la tienda 'Needful Things' es una referencia a Stephen King.",
+                "El título es un juego con 'Something Wicked This Way Comes'."
+            ]
+        },
+        "10": {
+            "titulo": "Close Rick-Counters of the Rick Kind",
+            "curiosidades": [
+                "Referencia a 'Close Encounters of the Third Kind'.",
+                "Aparecen Cronenberg Rick y Morty del episodio 'Rick Potion #9'."
+            ]
+        },
+        "11": {
+            "titulo": "Ricksy Business",
+            "curiosidades": [
+                "La canción final es 'Shake That Ass Bitch' de Splack Pack.",
+                "El título es una parodia de la película 'Risky Business'."
+            ]
+        }
     },
     "2": {
-      "titulo": "Lawnmower Dog",
-      "curiosidades": [
-        "Scary Terry es una referencia a Freddy Krueger.",
-        "Las reglas de morir en los sueños se invierten respecto a Inception."
-      ]
+        "1": {
+            "titulo": "A Rickle in Time",
+            "curiosidades": [
+                "El título es un juego con 'A Wrinkle in Time'."
+            ]
+        },
+        "2": {
+            "titulo": "Mortynight Run",
+            "curiosidades": [
+                "El juego 'Roy: A Life Well Lived' parodia simulaciones de vida."
+            ]
+        },
+        "3": {
+            "titulo": "Auto Erotic Assimilation",
+            "curiosidades": [
+                "El título es un juego con 'autoerotic asphyxiation'.",
+                "La canción final es 'Do You Feel It?' de Chaos Chaos."
+            ]
+        },
+        "4": {
+            "titulo": "Total Rickall",
+            "curiosidades": [
+                "El título es un juego con 'Total Recall'.",
+                "Referencia a Frankenstein de Mary Shelley."
+            ]
+        },
+        "5": {
+            "titulo": "Get Schwifty",
+            "curiosidades": [
+                "Rick le pide a Morty que le lama las bolas, guiño a Doc and Mharti.",
+                "Justin Roiland hace un cameo como él mismo."
+            ]
+        },
+        "6": {
+            "titulo": "The Ricks Must Be Crazy",
+            "curiosidades": [
+                "El título es una referencia a 'The Gods Must Be Crazy'.",
+                "Stephen Colbert presta su voz para Zeep Xanflorp."
+            ]
+        },
+        "7": {
+            "titulo": "Big Trouble in Little Sanchez",
+            "curiosidades": [
+                "El título es una referencia a 'Big Trouble in Little China'.",
+                "La canción que Summer canta es 'Between the Bars' de Elliott Smith."
+            ]
+        },
+        "8": {
+            "titulo": "Interdimensional Cable 2: Tempting Fate",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "Look Who’s Purging Now",
+            "curiosidades": [
+                "La trama es una parodia de 'The Purge'.",
+                "El título hace referencia a 'Look Who's Talking Now'."
+            ]
+        },
+        "10": {
+            "titulo": "The Wedding Squanchers",
+            "curiosidades": [
+                "El título referencia a 'The Wedding Crashers'.",
+                "La canción final es 'Hurt' de Nine Inch Nails."
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "titulo": "The Rickshank Rickdemption",
+            "curiosidades": [
+                "El título es un juego con 'The Shawshank Redemption'.",
+                "Referencia a personajes de Gravity Falls en la Ciudadela."
+            ]
+        },
+        "2": {
+            "titulo": "Rickmancing the Stone",
+            "curiosidades": [
+                "El título es un juego con 'Romancing the Stone'.",
+                "El episodio homenajea a 'Mad Max'."
+            ]
+        },
+        "3": {
+            "titulo": "Pickle Rick",
+            "curiosidades": [
+                "Rick ensambla un traje de ratas, parodia de Iron Man.",
+                "La secuencia de acción con Jaguar referencia a 'Die Hard'."
+            ]
+        },
+        "4": {
+            "titulo": "Vindicators 3: The Return of Worldender",
+            "curiosidades": [
+                "Los Vindicators parodian equipos de superhéroes como Marvel y DC.",
+                "Morty compara las payasadas de Rick con la película 'Saw'."
+            ]
+        },
+        "5": {
+            "titulo": "The Whirly Dirly Conspiracy",
+            "curiosidades": [
+                "Summer agrandada referencia a 'Honey I Blew Up The Kid'."
+            ]
+        },
+        "6": {
+            "titulo": "Rest and Ricklaxation",
+            "curiosidades": [
+                "Los drones de Rick forman un Voltron.",
+                "Referencia a las bolas chinas 'Ben Wa Balls'."
+            ]
+        },
+        "7": {
+            "titulo": "The Ricklantis Mixup",
+            "curiosidades": [
+                "El comercial de Simple Rick fue narrado por Jeff B. Davis.",
+                "La canción es 'In the City' de Joe Walsh."
+            ]
+        },
+        "8": {
+            "titulo": "Morty’s Mind Blowers",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "The ABCs of Beth",
+            "curiosidades": [
+                "El nombre del episodio es un juego con 'ABCs of Death'.",
+                "Referencia a Isaac Asimov."
+            ]
+        },
+        "10": {
+            "titulo": "The Rickchurian Mortydate",
+            "curiosidades": [
+                "El título es un juego con 'The Manchurian Candidate'."
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "titulo": "Edge of Tomorty: Rick Die Rickpeat",
+            "curiosidades": [
+                "El título referencia a 'Edge of Tomorrow'.",
+                "El episodio estuvo dedicado a J. Michael Mendel."
+            ]
+        },
+        "2": {
+            "titulo": "The Old Man and the Seat",
+            "curiosidades": [
+                "El título referencia a 'The Old Man and the Sea'."
+            ]
+        },
+        "3": {
+            "titulo": "One Crew over the Crewcoo’s Morty",
+            "curiosidades": [
+                "El título referencia a 'One Flew Over the Cuckoo's Nest'.",
+                "Elon Tusk parodia a Elon Musk."
+            ]
+        },
+        "4": {
+            "titulo": "Claw and Hoarder: Special Ricktim’s Morty",
+            "curiosidades": [
+                "El título es un juego con 'Law & Order: SVU'.",
+                "La escena del dragón recuerda a Smaug de El Hobbit."
+            ]
+        },
+        "5": {
+            "titulo": "Rattlestar Ricklactica",
+            "curiosidades": [
+                "El título es un juego con 'Battlestar Galactica'."
+            ]
+        },
+        "6": {
+            "titulo": "Never Ricking Morty",
+            "curiosidades": []
+        },
+        "7": {
+            "titulo": "Promortyus",
+            "curiosidades": []
+        },
+        "8": {
+            "titulo": "The Vat of Acid Episode",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "Childrick of Mort",
+            "curiosidades": []
+        },
+        "10": {
+            "titulo": "Star Mort Rickturn of the Jerri",
+            "curiosidades": []
+        }
+    },
+    "5": {
+        "1": {
+            "titulo": "Mort Dinner Rick Andre",
+            "curiosidades": [
+                "El título referencia a 'Dinner with Andre'."
+            ]
+        },
+        "2": {
+            "titulo": "Mortyplicity",
+            "curiosidades": []
+        },
+        "3": {
+            "titulo": "A Rickconvenient Mort",
+            "curiosidades": []
+        },
+        "4": {
+            "titulo": "Rickdependence Spray",
+            "curiosidades": []
+        },
+        "5": {
+            "titulo": "Amortycan Grickfitti",
+            "curiosidades": []
+        },
+        "6": {
+            "titulo": "Rick & Morty’s Thanksploitation Spectacular",
+            "curiosidades": []
+        },
+        "7": {
+            "titulo": "Gotron Jerrysis Rickvangelion",
+            "curiosidades": []
+        },
+        "8": {
+            "titulo": "Rickternal Friendshine of the Spotless Mort",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "Forgetting Sarick Mortshall",
+            "curiosidades": []
+        },
+        "10": {
+            "titulo": "Rickmurai Jack",
+            "curiosidades": []
+        }
+    },
+    "6": {
+        "1": {
+            "titulo": "Solaricks",
+            "curiosidades": [
+                "El título referencia a 'Solaris'."
+            ]
+        },
+        "2": {
+            "titulo": "Rick: A Mort Well Lived",
+            "curiosidades": []
+        },
+        "3": {
+            "titulo": "Bethic Twinstinct",
+            "curiosidades": []
+        },
+        "4": {
+            "titulo": "Night Family",
+            "curiosidades": []
+        },
+        "5": {
+            "titulo": "Final DeSmithation",
+            "curiosidades": []
+        },
+        "6": {
+            "titulo": "JuRicksic Mort",
+            "curiosidades": []
+        },
+        "7": {
+            "titulo": "Full Meta Jackrick",
+            "curiosidades": []
+        },
+        "8": {
+            "titulo": "Analyze Piss",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "A Rick in King Mortur’s Mort",
+            "curiosidades": []
+        },
+        "10": {
+            "titulo": "Ricktional Mortpoon’s Rickmas Mortcation",
+            "curiosidades": []
+        }
+    },
+    "7": {
+        "1": {
+            "titulo": "How Poopy Got His Poop Back",
+            "curiosidades": [
+                "El título referencia a 'How Stella Got Her Groove Back'."
+            ]
+        },
+        "2": {
+            "titulo": "The Jerrick Trap",
+            "curiosidades": []
+        },
+        "3": {
+            "titulo": "Air Force Wong",
+            "curiosidades": []
+        },
+        "4": {
+            "titulo": "That's Amorte",
+            "curiosidades": []
+        },
+        "5": {
+            "titulo": "Unmortricken",
+            "curiosidades": []
+        },
+        "6": {
+            "titulo": "Rickfending Your Mort",
+            "curiosidades": []
+        },
+        "7": {
+            "titulo": "Wet Kuat Amortican Summer",
+            "curiosidades": []
+        },
+        "8": {
+            "titulo": "Rise of the Numbericons: The Movie",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "Mort: Ragnarick",
+            "curiosidades": []
+        },
+        "10": {
+            "titulo": "Fear No Mort",
+            "curiosidades": []
+        }
+    },
+    "8": {
+        "1": {
+            "titulo": "Bethic Twinstinct II",
+            "curiosidades": [
+                "Secuela directa del episodio 'Bethic Twinstinct'."
+            ]
+        },
+        "2": {
+            "titulo": "The Rise of Morty",
+            "curiosidades": []
+        },
+        "3": {
+            "titulo": "Rick Prime Returns",
+            "curiosidades": []
+        },
+        "4": {
+            "titulo": "Mortyverse Madness",
+            "curiosidades": []
+        },
+        "5": {
+            "titulo": "The Citadel Strikes Back",
+            "curiosidades": []
+        },
+        "6": {
+            "titulo": "Portal Wars",
+            "curiosidades": []
+        },
+        "7": {
+            "titulo": "Infinite Ricks",
+            "curiosidades": []
+        },
+        "8": {
+            "titulo": "Morty’s Choice",
+            "curiosidades": []
+        },
+        "9": {
+            "titulo": "The Last Rick",
+            "curiosidades": []
+        },
+        "10": {
+            "titulo": "Endgame Morty",
+            "curiosidades": []
+        }
     }
-  },
-  "2": {
-    "1": {
-      "titulo": "A Rickle in Time",
-      "curiosidades": [
-        "El título es un juego con 'A Wrinkle in Time'."
-      ]
-    }
-  }
 }
