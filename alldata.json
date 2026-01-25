@@ -1,0 +1,71 @@
+{
+    "servidor1": {
+        "ingles": {
+            "1": {
+                "1": {
+                    "link": "https://bysezoxexe.com/e/n1cjw2hk4vyn/",
+                    "titulo": "Pilot",
+                    "curiosidades": [
+                        "En la clase del Sr. Goldenfold hay un personaje con camiseta de Bart Simpson.",
+                        "Rick y Morty están basados en la idea original de Justin Roiland."
+                    ]
+                },
+                "2": {
+                    "link": "https://bysezoxexe.com/e/8l9s4z21b0vw/",
+                    "titulo": "Lawnmower Dog",
+                    "curiosidades": [
+                        "Scary Terry es una referencia a Freddy Krueger.",
+                        "Las reglas de morir en los sueños se invierten respecto a Inception."
+                    ]
+                }
+            }
+        },
+        "latino": {
+            "1": {
+                "1": {
+                    "link": "https://bysezoxexe.com/e/8et0uhatqkoq/",
+                    "titulo": "Pilot (Latino)",
+                    "curiosidades": []
+                }
+            }
+        },
+        "castellano": {
+            "1": {
+                "1": {
+                    "link": "https://bysezoxexe.com/e/73jsgzi1rrw1/",
+                    "titulo": "Pilot (Castellano)",
+                    "curiosidades": []
+                }
+            }
+        }
+    },
+    "servidor2": {
+        "ingles": {
+            "1": {
+                "1": {
+                    "link": "https://voe.sx/e/fnpugeo2zehz/",
+                    "titulo": "Pilot",
+                    "curiosidades": []
+                }
+            }
+        },
+        "latino": {
+            "1": {
+                "1": {
+                    "link": "https://voe.sx/e/dtm8dgm0prgg/",
+                    "titulo": "Pilot (Latino)",
+                    "curiosidades": []
+                }
+            }
+        },
+        "castellano": {
+            "1": {
+                "1": {
+                    "link": "https://voe.sx/e/wfuqw1qwv6si",
+                    "titulo": "Pilot (Castellano)",
+                    "curiosidades": []
+                }
+            }
+        }
+    }
+}
