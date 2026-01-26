@@ -5,6 +5,7 @@
             "curiosidades": [
                 "En la clase del Sr. Goldenfold hay un personaje que tiene la cara de Bart Simpson en su camiseta. El estudiante puede verse cuando Morty está soñando mientras toca al Sr. Goldenfold pensando que es Jessica.",
                 "Rick y Morty están basados en la idea original de Justin Roiland \"<a target='_blank' href='https://voe.sx/fjsyeeed9sa5'>The Real Animated Adventures of Doc and Mharti</a>\" la cual a su vez está inspirada en las películas de <a target='_blank' href='https://www.youtube.com/watch?v=suUZWVnmgqc'>Back to the Future</a> (titulada Volver al futuro o Vuelta al futuro en Hispanoamérica y Regreso al futuro en España)."
+            ]
         },
         "2": {
             "titulo": "Lawnmower Dog",
@@ -400,45 +401,43 @@
     },
     "8": {
         "1": {
-            "titulo": "Bethic Twinstinct II",
-            "curiosidades": [
-                "Secuela directa del episodio 'Bethic Twinstinct'."
-            ]
+            "titulo": "Summer of All Fears",
+            "curiosidades": []
         },
         "2": {
-            "titulo": "The Rise of Morty",
+            "titulo": "Valkyrick",
             "curiosidades": []
         },
         "3": {
-            "titulo": "Rick Prime Returns",
+            "titulo": "The Rick, The Mort & The Ugly",
             "curiosidades": []
         },
         "4": {
-            "titulo": "Mortyverse Madness",
+            "titulo": "The Last Temptation of Jerry",
             "curiosidades": []
         },
         "5": {
-            "titulo": "The Citadel Strikes Back",
+            "titulo": "Cryo Mort a Rickver",
             "curiosidades": []
         },
         "6": {
-            "titulo": "Portal Wars",
+            "titulo": "The Curicksous Case of Bethjamin Button",
             "curiosidades": []
         },
         "7": {
-            "titulo": "Infinite Ricks",
+            "titulo": "Ricker than Fiction",
             "curiosidades": []
         },
         "8": {
-            "titulo": "Morty’s Choice",
+            "titulo": "Nomortland",
             "curiosidades": []
         },
         "9": {
-            "titulo": "The Last Rick",
+            "titulo": "Morty Daddy",
             "curiosidades": []
         },
         "10": {
-            "titulo": "Endgame Morty",
+            "titulo": "Hot Rick",
             "curiosidades": []
         }
     }
